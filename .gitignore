@@ -3,3 +3,4 @@ output/
 .venv
 .ipynb_checkpoints/
 S1_v2/
+S1_v2_512_256/
