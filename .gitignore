@@ -4,3 +4,6 @@ output/
 .ipynb_checkpoints/
 S1_v2/
 S1_v2_512_256/
+S1_v2_512_384/
+S1_v2_1024_256/
+S1_v2_1024_512/
