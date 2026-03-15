@@ -1,0 +1,5 @@
+petroscope.log
+output/
+.venv
+.ipynb_checkpoints/
+S1_v2/
